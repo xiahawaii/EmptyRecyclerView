@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EmptyRecyclerView</string>
+    <string name="valueOn">有数据</string>
+    <string name="valueOff">无数据</string>
+</resources>
